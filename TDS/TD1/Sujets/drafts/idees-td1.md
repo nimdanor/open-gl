@@ -1,0 +1,5 @@
+- les sujets de ce TD sont des descriptions rapides (10-15 lignes) de besoins:
+   - organisation d'une fête: comptabilité, noter les présents, ceux qui ont déjà payer (pré-ventes), avec une loterie 
+   - organisation d'un tournois sportif : footsalle, tennis, wow, whatever 
+   - Gestion d'une collection: timbres , grands crus, capsule de bouteilles, whatever
+- Class Responsability Card
